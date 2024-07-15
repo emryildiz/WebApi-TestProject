@@ -1,0 +1,13 @@
+2024-07-15 14:48:50.460 +03:00 [INF] Now listening on: https://localhost:7160
+2024-07-15 14:48:50.492 +03:00 [INF] Now listening on: http://localhost:5108
+2024-07-15 14:48:50.494 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-15 14:48:50.494 +03:00 [INF] Hosting environment: Development
+2024-07-15 14:48:50.495 +03:00 [INF] Content root path: C:\Users\user\source\repos\EmirSacOtomotiv\Presentation\EmirSacOtomotiv.Api
+2024-07-15 14:48:52.140 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7160/swagger/index.html - null null
+2024-07-15 14:48:52.282 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7160/swagger/index.html - 200 null text/html;charset=utf-8 147.3084ms
+2024-07-15 14:48:52.303 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7160/_vs/browserLink - null null
+2024-07-15 14:48:52.303 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7160/_framework/aspnetcore-browser-refresh.js - null null
+2024-07-15 14:48:52.319 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7160/_framework/aspnetcore-browser-refresh.js - 200 13774 application/javascript; charset=utf-8 17.0025ms
+2024-07-15 14:48:52.357 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7160/_vs/browserLink - 200 null text/javascript; charset=UTF-8 54.8071ms
+2024-07-15 14:48:52.410 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7160/swagger/v1/swagger.json - null null
+2024-07-15 14:48:52.485 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7160/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 75.8906ms
